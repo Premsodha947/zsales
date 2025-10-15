@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Sales Register for GST",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Sales Register for GST"
+  },
+  "ui5AppDetails": {
+    "appId": "sbsales.zsbsalesreg"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_D6E2CA079F432423CFA07B4A2A72A8E58D1B9F1F_TM",
+    "semanticObject": "zsbsrgst",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_D6E2CA079F432423CFA07B4A2A72A8E58D1B9F1F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Sales Register for GST",
+        "subtitle": "Sales Register for GST"
+      }
+    }
+  ]
+}

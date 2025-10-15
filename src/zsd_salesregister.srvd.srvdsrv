@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service defintion of Sales Register'
+define service ZSD_SALESREGISTER {
+  expose Zsales_Register_Cube as SalesRegister;
+}
